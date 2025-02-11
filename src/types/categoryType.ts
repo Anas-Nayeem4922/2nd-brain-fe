@@ -1,0 +1,1 @@
+export type Category = "article" | "video" | "tweet" | "image" | "all"
